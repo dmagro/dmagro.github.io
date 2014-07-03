@@ -1,4 +1,4 @@
-dmagro.github.io
-================
+dmagro
+======
 
-Web performance final project
+Udacity Web Performance final project
